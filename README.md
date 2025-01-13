@@ -83,4 +83,24 @@ Power BI Dashboard:
 Connecting cleaned SQL data to Power BI.
 Developing visualizations and reports for churn data insights.
 
+## Steps in the Jupyter Notebook for prediction:
+Step 1: Load dataset and libraries.
+Step 2: Explore data: check for missing values, distributions, and correlations.
+Step 3: Preprocess data: handle missing values, encode categorical variables.
+Step 4: Split data into train and test sets.
+Step 5: Feature selection/engineering if necessary.
+Step 6: Initialize and train RandomForestClassifier.
+Step 7: Evaluate model performance using metrics.
+Step 8: Tune hyperparameters if needed.
+Step 9: Make predictions on test data.
+Step 10: Visualize results and metrics.
+Step 11: Save the model.
+Step 12: Prepare data for integration with Power BI.
+
+## prediction dashboard:
+![project_2_P_3](https://github.com/user-attachments/assets/43c071c1-ff17-4302-ae73-5409cc6f383e)
+
+
+
+
 
