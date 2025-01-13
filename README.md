@@ -9,6 +9,8 @@ This repository provides a concise analysis of customer churn using machine lear
     Contract Analysis: Distribution and percentage of customers by contract type.
     Customer Revenue Analysis: Total revenue per customer status and its percentage of overall revenue.
     State Distribution: The proportion of customers by state, ranked by percentage.
+  ![]![Screenshot (840)](https://github.com/user-attachments/assets/02e0f970-23d0-4fbc-83d4-f5671854e2f5)
+  
 ### 2. Checking for Null and Blank Values
     A detailed query was executed to check nulls and blank values across all fields in the dataset. This step ensures the integrity of the data by identifying areas requiring data cleaning.
 
